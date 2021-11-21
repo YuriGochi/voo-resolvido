@@ -1,0 +1,17 @@
+.btn, .form-control{
+  border-radius: 20px;
+}
+
+.google {
+  font-size: 14px;
+}
+
+.row {
+  padding-top: 46px;
+}
+
+@media screen and (max-width:600px){
+  .row {
+    padding: 160px 30px;
+  }
+}
